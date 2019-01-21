@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+venv/
+dataCleaning/__pycache__/
+dataCollection/__pycache__/
+visualization/__pycache__/
+reports/__pycache__/
+algorithm/__pycache__/
+.DS_Store
